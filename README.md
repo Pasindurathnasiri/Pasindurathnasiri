@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pasindurathnasiri
 - 👀 I’m interested in Angular, .NET
 - 💞️ I’m looking to collaborate on Web application developments
-- 📫 How to reach me rathnasirimadhuranga@gmail.com
+- 📫 How to reach me pasindupws@gmail.com
 
 <!---
 Pasindurathnasiri/Pasindurathnasiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
